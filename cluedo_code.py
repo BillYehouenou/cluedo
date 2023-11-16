@@ -1,7 +1,3 @@
-# 22200623 Thérèse Le Dorh
-# 22210577 Bill Yehouenou
-# 22210075 Sarra Baghdadi
-
 # Section 1 : les imports
 
 import requests
